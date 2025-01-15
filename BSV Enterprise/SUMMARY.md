@@ -37,7 +37,7 @@
 
     - [Proof of Work](/introduction-to-bitcoin-enterprise/technical-details/proof-of-work/README.md)
       - [The algorithm](/introduction-to-bitcoin-enterprise/technical-details/proof-of-work/the-algorithm.md)
-      - [Efficiency of Proof of Work](/introduction-to-bitcoin-enterprise/technical-details/proof-of-work/the-algorithm.md)
+      - [Efficiency of Proof of Work](/introduction-to-bitcoin-enterprise/technical-details/proof-of-work/efficiency-of-proof-of-work.md)
 
     - [Privacy and Identity](/introduction-to-bitcoin-enterprise/technical-details/privacy-and-identity.md)
     - [Permissions, Privacy and the Metanet](/introduction-to-bitcoin-enterprise/technical-details/permissions-privacy-and-the-metanet.md)
