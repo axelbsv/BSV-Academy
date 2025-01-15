@@ -1,7 +1,7 @@
 # Hash Functions
 
 ## 1. WHAT ARE HASH FUNCTIONS
-- [What are Hash functions](/Primitives/Hash%20Functions/1.-what-are-hash-functions/what-are-hash-functions.md)
+- [What are Hash functions](/1.-what-are-hash-functions/what-are-hash-functions.md)
 - [What are Hash functions](/Primitives/Hash%20Functions/1.-what-are-hash-functions/the-differences-between-hashing-and-encryption.md)
 - [What are Hash functions](/Primitives/Hash%20Functions/1.-what-are-hash-functions/the-three-important-properties-of-hash-functions.md)
 - [What are Hash functions](/Primitives/Hash%20Functions/1.-what-are-hash-functions/the-hash-functions-found-in-bsv.md)
